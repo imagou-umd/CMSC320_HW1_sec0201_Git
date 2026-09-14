@@ -9,3 +9,7 @@ Answer: A good example of where data science is applie is in any business. Espec
 tpyes of analytics. While data science can be applied to each, the simplest to explain are descriptive analytics.
 When a company wants to diagnose what happened, for example how many sales, how much profit. It is easiest to do this by looking at records,
 receipts, and using them to write a story. They often clean the data and perhaps even visualize it looking for information withiin the data.
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: git preserves the history of both branches and creates a new merge commit. Rebase rewrites the history placing your feature branch and its commits on top of the target branch.
