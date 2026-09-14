@@ -13,3 +13,7 @@ receipts, and using them to write a story. They often clean the data and perhaps
 Q3: What is the difference between Merging and Rebasing?
 
 Answer: git preserves the history of both branches and creates a new merge commit. Rebase rewrites the history placing your feature branch and its commits on top of the target branch.
+
+Q4: What are you looking forward to this semester?
+
+Answer: I am looking forward to seeing my freinds around campus and learning a lot of interesting new concepts in my classes.
