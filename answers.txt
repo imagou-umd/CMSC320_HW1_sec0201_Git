@@ -1,0 +1,6 @@
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: A good example of where data science is applie is in any business. Especially large ones, rely heavily on data science. IN business there are different
+tpyes of analytics. While data science can be applied to each, the simplest to explain are descriptive analytics.
+When a company wants to diagnose what happened, for example how many sales, how much profit. It is easiest to do this by looking at records,
+receipts, and using them to write a story. They often clean the data and perhaps even visualize it looking for information withiin the data.
