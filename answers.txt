@@ -1,0 +1,4 @@
+Q1: Why might we consider using Git?
+
+Answer: It is important for version control, as we work on large projects it is important to keep a clean codebase and it's history. It is also vital to be able to collaborate 
+with others on it as we pull and push updates that will change the code across the team.
